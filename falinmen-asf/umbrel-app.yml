@@ -1,0 +1,19 @@
+manifestVersion: 1
+id: archisteamfarm
+category: gaming
+name: ArchiSteamFarm
+version: latest
+tagline: Automate Steam farming
+description: >-
+  ArchiSteamFarm (ASF) is an open-source tool for automating Steam account activities, such as farming trading cards and badges. Run multiple accounts with a web interface for management.
+developer: JustArchiNET
+website: https://github.com/JustArchiNET/ArchiSteamFarm
+dependencies: []
+repo: https://github.com/JustArchiNET/ArchiSteamFarm
+support: https://github.com/JustArchiNET/ArchiSteamFarm/wiki
+port: 1242
+gallery:
+  - https://raw.githubusercontent.com/JustArchiNET/ArchiSteamFarm/main/.github/ASF.png
+path: ""
+defaultUsername: ""
+defaultPassword: ""
